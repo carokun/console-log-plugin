@@ -1,0 +1,18 @@
+{
+  "name": "sourcetoggle",
+  "main": "./lib/sourcetoggle",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "sourcetoggle:toggle"
+  },
+  "repository": "https://github.com/carokun",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
