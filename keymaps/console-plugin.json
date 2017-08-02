@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "console-plugin:toggle"
+    "ctrl-alt-x": "console-plugin:toggle"
   }
 }
